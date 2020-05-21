@@ -1,0 +1,22 @@
+{
+  "name": "chouetteafter",
+  "version": "1.0.0",
+  "description": "chouetteafter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krissdel/chouetteafter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krissdel/chouetteafter/issues"
+  },
+  "homepage": "https://github.com/krissdel/chouetteafter#readme",
+  "devDependencies": {
+    "css-minify": "^1.0.1"
+  }
+}
